@@ -1,3 +1,3 @@
 # FirmExtract-Posts
 
-Upload the things we made or needed whle posting.
+Upload the things we made or needed while posting.
